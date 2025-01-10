@@ -1,0 +1,9 @@
+[submodule "product-catalog-service"]
+	path = product-catalog-service
+	url = git@github.com:darkaster72/ecom-product-catalog-service.git
+[submodule "user-auth-service"]
+	path = user-auth-service
+	url = git@github.com:darkaster72/ecom-user-authentication-service.git
+[submodule "ecom-ms-bom"]
+	path = ecom-ms-bom
+	url = git@github.com:darkaster72/ecom-ms-bom.git
