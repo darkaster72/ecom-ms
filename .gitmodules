@@ -10,3 +10,6 @@
 [submodule "payment-service"]
 	path = payment-service
 	url = git@github.com:darkaster72/ecom-payment-service.git
+[submodule "service-discovery"]
+	path = service-discovery
+	url = git@github.com:darkaster72/ecom-service-discovery.git
