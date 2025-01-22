@@ -7,3 +7,6 @@
 [submodule "ecom-ms-bom"]
 	path = ecom-ms-bom
 	url = git@github.com:darkaster72/ecom-ms-bom.git
+[submodule "payment-service"]
+	path = payment-service
+	url = git@github.com:darkaster72/ecom-payment-service.git
