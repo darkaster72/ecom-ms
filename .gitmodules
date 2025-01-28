@@ -13,3 +13,6 @@
 [submodule "service-discovery"]
 	path = service-discovery
 	url = git@github.com:darkaster72/ecom-service-discovery.git
+[submodule "email-service"]
+	path = email-service
+	url = git@github.com:darkaster72/ecom-email-service.git
